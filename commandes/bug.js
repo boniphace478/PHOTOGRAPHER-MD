@@ -63,7 +63,7 @@ zokou(
     let menu = `${mono}Hello ${ms.pushName}
 ${timewisher(time)}
 
-≡𝙽𝙰𝚁𝚄𝚃𝙾 𝙱𝙾𝚃 𝙼𝙴𝙽𝚄
+≡Photographer Tech 𝙱𝙾𝚃 𝙼𝙴𝙽𝚄
 docbug
 loccrash
 amountbug <amount>
@@ -98,7 +98,7 @@ docugcbug <grouplink>${mono}`;
           {
             showAdAttribution: true,
             title: `${conf.BOT}`,
-            body: `Bot Created By naruto_tech`,
+            body: `Bot Created By Photographer Tech`,
             Abhinail: {url: tumbUrl},
             AbhinailUrl: tumbUrl,
             previewType: 'PHOTO',
