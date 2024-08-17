@@ -2,7 +2,7 @@
 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=red&size=25&center=true&vCenter=true&width=600&height=100&lines=I'm+photographer+md+Created+by+photographer.&heart;++;Self-taught+Back-Created+By,;Fredi+Ezra+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
  <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f">
- <img alt="PHOTOGRAPHER-MD" height="300" src="https://telegra.ph/file/c0b1dbeec892876be27a6.jpg">
+ <img alt="PHOTOGRAPHER-MD" height="300" src="https://telegra.ph/file/7f1ad109dca7888e23e56.jpg">
   
 </h1> 
 <p align="center">l introduce <b>PHOTOGRAPHER-MD</b>, a powerful simple WhatsApp bot </p>
