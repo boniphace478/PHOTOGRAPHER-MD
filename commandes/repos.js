@@ -4,7 +4,7 @@ const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
   const githubRepo = 'https://api.github.com/repos/boniphace478/PHOTOGRAPHER-MD';
-  const img = 'https://telegra.ph/file/59ead3c2b58ca1b07734d.jpg';
+  const img = 'https://telegra.ph/file/4ddc87e97bf9aaeb62def.jpg';
 
   try {
     const response = await fetch(githubRepo);
