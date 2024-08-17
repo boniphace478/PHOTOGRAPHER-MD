@@ -34,16 +34,16 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-*LUCKY MD V5 AVAILABLE MENUS* 
+*ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻 AVAILABLE MENUS* 
 
 
     ▸ *commander* : ${cm.length} 
     ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     ▸ *uptime* : ${os.platform()}
-    ▸ *theme* : *FREDI TECH*
+    ▸ *theme* : *PHOTOGRAPHER TECH*
 
-> LUCKY🍀 MD V5 WA BOT
-> POWERED BY FREDIE TECH 💎\n${readmore}`;
+> ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻 WA BOT
+> POWERED BY PHOTOGRAPHER TECH 💎\n${readmore}`;
     
 let menuMsg = `
 > Hello ${nomAuteurMessage},,, Type menu2 to access a list of commands. 
@@ -64,7 +64,7 @@ let menuMsg = `
 // Vérification pour .jpeg ou .png
 else if (lien.match(/\.(jpeg|png|jpg)$/i)) {
     try {
-        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *LUCKY MD V5👌*, déveloper FREDIE TECH" }, { quoted: ms });
+        zk.sendMessage(dest, { image: { url: lien }, caption:infoMsg + menuMsg, footer: "Je suis *ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻👌*, déveloper ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻 TECH" }, { quoted: ms });
     }
     catch (e) {
         console.log("🥵🥵 Menu erreur " + e);
