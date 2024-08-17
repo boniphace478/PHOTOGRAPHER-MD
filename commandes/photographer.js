@@ -66,7 +66,7 @@ const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
 
-┏❏ ⌜  𝕃𝕌ℂ𝕂𝕐 𝕄𝔻 𝕍𝟝 ⌟ ❐
+┏❏ ⌜  ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻 ⌟ ❐
 ┃ ⿻𝕄𝕠𝕕𝕖: ${mode}
 ┃ ⿻𝕌𝕤𝕖𝕣 : ${s.OWNER_NAME}
 ┃ ⿻𝕃𝕚𝕓𝕣𝕒𝕣𝕪 : Baileys
@@ -83,7 +83,7 @@ const date = moment().format('DD/MM/YYYY');
 
 let menuMsg = `
 ┏━━━━━━━━━┓
-┣💫Lucky cmds
+┣💫 photographer cmds
 ┗━━━━━━━━━┛\n
 
 
@@ -98,7 +98,7 @@ let menuMsg = `
         for (const cmd of coms[cat]) {
 
             menuMsg += `
-┃ 🍃 ${cmd}`;
+┃ 🖼️ ${cmd}`;
 
         }
 
@@ -113,11 +113,11 @@ let menuMsg = `
 
 
 ︎┏━━━━━━━━━━━━━━┓
-️┣❏Lucky md V5 2024
+️┣❏Photographer Md
 ┣❏Enjoy life  
 ┗┳━━━━━━━━━━━━┳┛
 ┏┻━━━━━━━━━━━━┻┓
-┃powered by Fredie Tech
+┃powered by Photographer Tech
 ┗━━━━━━━━━━━━━━┛\n
 
 
