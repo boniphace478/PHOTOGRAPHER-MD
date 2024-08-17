@@ -96,7 +96,7 @@ star✨ my repo if you like this bot🤖
 <a href="https://whatsapp.com/channel/0029VaihcQv84Om8LP59fO3f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="fredietech" height="30" width="40" /></a>
 
 
-<a href="https://www.youtube.com/@freeonlinetvT1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freditech" height="30" width="40" /></a>
+<a href="https://youtube.com/@anthonyboniphace?si=TFChPRJAOHgtf-ZY" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="freditech" height="30" width="40" /></a>
 
 
 ## License
@@ -110,9 +110,7 @@ The WhatsApp Bot ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻 is released
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
 - [**BONIPHACE TECH**](https://github.com/boniphace478)
-- [**TELEGRAM**]
-- (t.me/boniphaceTech)
-- [**Developers YT**](https://www.youtube.com/@freeonlinetvT1)
+- [**Developers YT**](https://youtube.com/@anthonyboniphace?si=TFChPRJAOHgtf-ZY)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
 ★THANK YOU GOD FOR THAT MOMENT🙏. ©
