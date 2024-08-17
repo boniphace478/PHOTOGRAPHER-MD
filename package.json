@@ -1,5 +1,5 @@
 {
-  "name": "LUCKY-md v5",
+  "name": "ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻",
   "version": "2.0.0",
   "description": "",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp-bot",
     "zokou"
   ],
-  "author": "fredie",
+  "author": "photographer",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
