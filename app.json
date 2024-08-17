@@ -1,9 +1,9 @@
 {
-  "name":"LUCKY🍀 MD V5 UPDATE BY ME",
-  "description":"Best WhatsApp Bot Developed By Fredie Ezra Contact Us 255686745716,255764182801,255620814108,255752593977 Thank you for choose Lucky🍀 MD V5",
+  "name":"PHOTOGRAPHER MD  UPDATE BY ME",
+  "description":"Best WhatsApp Bot Developed By Photographer Tech Contact Us 255696497709,255716661569 Thank you for choose PHOTOGRAPHER MD ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/f6c60977ceb194e05e616.jpg",
-  "repository":"https://github.com/Fred1e/LUCKY_MD",
+  "repository":"https://github.com/boniphace478/PHOTOGRAPHER-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"LUCKY🍀_MD V5",
+      "value":"ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻",
       "required":false
 
     } ,
@@ -54,7 +54,7 @@
     },
     "HEROKU_APY_KEY": {
       "description": "insert your heroku api-key (The name you wrote at the beginning)",
-      "value" : "HRKU-841b19e7-8679-437b-bb6c-edd4133978dd", 
+      "value" : "", 
       "required": true
     },
   "HEROKU_APP_NAME": {
@@ -74,21 +74,21 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ғʀᴇᴅɪᴇ ᴛᴇᴄʜ"
+    "value": "𝗔1 𝗣𝗛𝗢𝗧𝗢𝗚𝗥𝗔𝗣𝗛𝗘𝗥 📸"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255686745716,255764182801,255620814108,255752593977"
+    "value": "255696497709,255716661569"
 	  
   },
     "WARN_COUNT":
   {
     "desc": "this is the limit of warn for warning commandes",
     "required": false,
-    "value": "5"
+    "value": "3"
   },
   "STARTING_BOT_MESSAGE":
   {
