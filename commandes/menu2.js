@@ -34,7 +34,7 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-╭────  LUCKY MD V5 ─────✣
+╭────  ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻 ─────✣
 │  ╭─────────────✣
 │  │▸ *my owner* : ${s.OWNER_NAME}
    │▸ *commander* : ${nomAuteurMessage} 
@@ -45,26 +45,26 @@ const date = moment().format('DD/MM/YYYY');
     ▸ *plugin* : ${cm.length} 
     ▸ *rom* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
     ▸ *running on* : ${os.platform()}
-    ▸ *theme* : *FREDI*
+    ▸ *theme* : *GRAPHERS*
 
-> LUCKY MD 2024\n${readmore}`;
+> ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻\n${readmore}`;
     
 let menuMsg = `
 
- * Lucky Md v5 COMMADS *${readmore}
+ * ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻 COMMADS *${readmore}
 `;
 
     for (const cat in coms) {
         menuMsg += ` ╭──────✣ *${cat}* ✣─────☹︎`;
         for (const cmd of coms[cat]) {
             menuMsg += `
-│🍀│ ${cmd}`;
+│📸│ ${cmd}`;
         }
         menuMsg += `
 ╰────────────···▸▸ \n`
     }
 
-    menuMsg += `> powered by Fredie Tech 
+    menuMsg += `> powered by Photographer Tech 
 `;
 
    var lien = mybotpic();
