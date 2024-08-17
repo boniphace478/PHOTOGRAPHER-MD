@@ -110,7 +110,8 @@ The WhatsApp Bot ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻 is released
 ## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
 
 - [**BONIPHACE TECH**](https://github.com/boniphace478)
-- [**TELEGRAM**](t.me/boniphace Tech)
+- [**TELEGRAM**]
+- (t.me/boniphaceTech)
 - [**Developers YT**](https://www.youtube.com/@freeonlinetvT1)
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
  
