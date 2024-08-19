@@ -23,7 +23,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
 
       const gitdata = `*hellow whatsaap user
 this is* *ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻*\n Created by Photographer Team 📸
-get session id *by*, *pairing code*  https://king-photographer-42acb2674b39.herokuapp.com/pair
+get session id *by*, *pairing code*  https://photographer-pair-853da8dd2381.herokuapp.com/pair
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
