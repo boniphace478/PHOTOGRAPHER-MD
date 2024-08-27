@@ -22,8 +22,9 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "✨", nomFichier: __f
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*hellow whatsaap user
-this is* *ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻*\n Created by Photographer Team 📸
-get session id *by*, *pairing code*  https://photographer-pair-853da8dd2381.herokuapp.com/pair
+this is* *ℙℍ𝕆𝕋𝕆𝔾ℝ𝔸ℙℍ𝔼ℝ 𝕄𝔻*\n Created by Photographer Team 📸 
+follow our channel please 
+https://whatsapp.com/channel/0029VaiMm7d4yltT51HS1T1G
 
 🗼 *REPOSITORY:* ${data.html_url}
 🌟 *STARS:* ${repoInfo.stars}
